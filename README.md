@@ -9,6 +9,7 @@ Uma API simples para produtos de um mercadinho.
 
 ## 🛠 Ferramentas para criar e hospedar a base de dados:
 ![Static Badge](https://img.shields.io/badge/Postgresql-16-blue)
+![Static Badge](https://img.shields.io/badge/pgAdmin-4-blue)
 
 ## 📚 Bibliotecas utilizadas para desenvolvimento:
 ![Static Badge](https://img.shields.io/badge/org.postgresql-blue)
