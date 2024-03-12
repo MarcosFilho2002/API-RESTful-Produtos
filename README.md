@@ -25,23 +25,23 @@ Uma API simples para produtos de um mercadinho.
 
 ### Adicionar produto
 {POST}http://localhost:8080/api/produtos
-#####Body:
-######{
+##### Body:
+###### {
 ######    "nome":String,
 ######    "quantidade": Integer,
 ######    "valor" : Double,
 ######    "observacao" : String
-######}
+###### }
 
 ### Atualizando produto
 {PUT}http://localhost:8080/api/produtos/{id}
-#####Body:
-######{
+##### Body:
+###### {
 ######    "nome":String,
 ######    "quantidade": Integer,
 ######    "valor" : Double,
 ######    "observacao" : String
-######}
+###### }
 
 ### Deletar Produto
 {DELETE}http://localhost:8080/api/produtos/{id}
